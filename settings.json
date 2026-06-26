@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CommerceS1.aternos.me",
-    "port": 37333,
+    "ip": "CommerceS1.exaroton.me",
+    "port": 62065,
     "version": "1.21.1"
   },
   "position": {
